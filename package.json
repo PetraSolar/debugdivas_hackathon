@@ -18,6 +18,7 @@
     "@types/node": "^20.12.12"
   },
   "dependencies": {
+    "playwright": "^1.44.1",
     "prettier": "^3.2.5"
   }
 }
