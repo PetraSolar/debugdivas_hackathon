@@ -1,6 +1,6 @@
 # What To Find Here
 Automated tests for hackathon DA 2024
 
-Log in and log out
+1) Log in and log out
 
-User registration
+2) User registration
