@@ -1,4 +1,6 @@
 # What To Find Here
+Automated tests for hackathon DA 2024
 
-Log in a Log out
-Registrace nového uživatele
+Log in and log out
+
+User registration
